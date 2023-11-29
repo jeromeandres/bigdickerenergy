@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Devy • Dynasty • Defense • Degeneracy<p> 
+<p>Devy • Dynasty • Defense • Degeneracy<p> 
 
 <p>These are the four pillars on which Dicker was erected.<p>
 
