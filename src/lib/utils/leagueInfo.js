@@ -14,7 +14,7 @@ export const homepageText = `
 <p>Defense – Providing alternate avenues for greatness and ascertaining fury when stat corrections hit<p>
 <p>Degeneracy – Inexplicable devotion to a game of imaginary points<p>
 <p>Although Big Dicker Energy is still in its infancy, it has already provided an enriching (often infuriating) fantasy experience for all. We have witnessed heartbreaking stat correction losses, blowout destructions, the Tank Olympics, revolutionary roster reconstructions, and an intense 5-way postseason push – all in our first year. Still, the best is yet to come. There are yet antagonizing league chats to be sent, mind-bogglingly lopsided trade offers to be propositioned, and FAAB dollars to be wasted. Dicker will continue to grow, and the league, 12 deep, shall ride it until the end of time.</p>
-';
+`;
 
 /*   STEP 3   */
 /*
